@@ -57,7 +57,7 @@ $ cd phase-0-pac-3-what-is-a-test-lab.git
 $ code .
 ```
 
-Open up `index.js` in your code editor. You are going to see mostly familiar
+Open up `index.js` in your . You are going to see mostly familiar
 things:
 
 ```javascript
